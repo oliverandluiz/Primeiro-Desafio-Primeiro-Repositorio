@@ -1,0 +1,2 @@
+O primeiro exercício proposto no bootcamp Orange Tech+ 
+foi a criação de um repositório inicial no desafio Git/GitHub.
